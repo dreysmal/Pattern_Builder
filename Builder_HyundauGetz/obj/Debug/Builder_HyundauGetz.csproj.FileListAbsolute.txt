@@ -1,0 +1,10 @@
+c:\users\user\source\repos\BuilderCar\Builder_HyundauGetz\bin\Debug\Builder_HyundauGetz.dll
+c:\users\user\source\repos\BuilderCar\Builder_HyundauGetz\bin\Debug\Builder_HyundauGetz.pdb
+c:\users\user\source\repos\BuilderCar\Builder_HyundauGetz\bin\Debug\Car.dll
+c:\users\user\source\repos\BuilderCar\Builder_HyundauGetz\bin\Debug\IBuilder.dll
+c:\users\user\source\repos\BuilderCar\Builder_HyundauGetz\bin\Debug\Car.pdb
+c:\users\user\source\repos\BuilderCar\Builder_HyundauGetz\bin\Debug\IBuilder.pdb
+c:\users\user\source\repos\BuilderCar\Builder_HyundauGetz\obj\Debug\Builder_HyundauGetz.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\BuilderCar\Builder_HyundauGetz\obj\Debug\Builder_HyundauGetz.dll
+c:\users\user\source\repos\BuilderCar\Builder_HyundauGetz\obj\Debug\Builder_HyundauGetz.pdb
+c:\users\user\source\repos\BuilderCar\Builder_HyundauGetz\obj\Debug\Builder_HyundauGetz.csprojResolveAssemblyReference.cache

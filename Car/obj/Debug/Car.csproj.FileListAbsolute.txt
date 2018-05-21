@@ -1,0 +1,5 @@
+c:\users\user\source\repos\BuilderCar\Car\bin\Debug\Car.dll
+c:\users\user\source\repos\BuilderCar\Car\bin\Debug\Car.pdb
+c:\users\user\source\repos\BuilderCar\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\BuilderCar\Car\obj\Debug\Car.dll
+c:\users\user\source\repos\BuilderCar\Car\obj\Debug\Car.pdb

@@ -1,0 +1,10 @@
+c:\users\user\source\repos\BuilderCar\Builder_DaewooLanos\bin\Debug\Builder_DaewooLanos.dll
+c:\users\user\source\repos\BuilderCar\Builder_DaewooLanos\bin\Debug\Builder_DaewooLanos.pdb
+c:\users\user\source\repos\BuilderCar\Builder_DaewooLanos\bin\Debug\Car.dll
+c:\users\user\source\repos\BuilderCar\Builder_DaewooLanos\bin\Debug\IBuilder.dll
+c:\users\user\source\repos\BuilderCar\Builder_DaewooLanos\bin\Debug\Car.pdb
+c:\users\user\source\repos\BuilderCar\Builder_DaewooLanos\bin\Debug\IBuilder.pdb
+c:\users\user\source\repos\BuilderCar\Builder_DaewooLanos\obj\Debug\Builder_DaewooLanos.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\BuilderCar\Builder_DaewooLanos\obj\Debug\Builder_DaewooLanos.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\BuilderCar\Builder_DaewooLanos\obj\Debug\Builder_DaewooLanos.dll
+c:\users\user\source\repos\BuilderCar\Builder_DaewooLanos\obj\Debug\Builder_DaewooLanos.pdb

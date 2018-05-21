@@ -1,0 +1,10 @@
+c:\users\user\source\repos\BuilderCar\Builder_UAZPatriot\bin\Debug\Builder_UAZPatriot.dll
+c:\users\user\source\repos\BuilderCar\Builder_UAZPatriot\bin\Debug\Builder_UAZPatriot.pdb
+c:\users\user\source\repos\BuilderCar\Builder_UAZPatriot\bin\Debug\Car.dll
+c:\users\user\source\repos\BuilderCar\Builder_UAZPatriot\bin\Debug\IBuilder.dll
+c:\users\user\source\repos\BuilderCar\Builder_UAZPatriot\bin\Debug\Car.pdb
+c:\users\user\source\repos\BuilderCar\Builder_UAZPatriot\bin\Debug\IBuilder.pdb
+c:\users\user\source\repos\BuilderCar\Builder_UAZPatriot\obj\Debug\Builder_UAZPatriot.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\BuilderCar\Builder_UAZPatriot\obj\Debug\Builder_UAZPatriot.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\BuilderCar\Builder_UAZPatriot\obj\Debug\Builder_UAZPatriot.dll
+c:\users\user\source\repos\BuilderCar\Builder_UAZPatriot\obj\Debug\Builder_UAZPatriot.pdb

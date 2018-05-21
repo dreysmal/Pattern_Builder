@@ -1,0 +1,8 @@
+c:\users\user\source\repos\BuilderCar\IBuilder\bin\Debug\IBuilder.dll
+c:\users\user\source\repos\BuilderCar\IBuilder\bin\Debug\IBuilder.pdb
+c:\users\user\source\repos\BuilderCar\IBuilder\bin\Debug\Car.dll
+c:\users\user\source\repos\BuilderCar\IBuilder\bin\Debug\Car.pdb
+c:\users\user\source\repos\BuilderCar\IBuilder\obj\Debug\IBuilder.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\BuilderCar\IBuilder\obj\Debug\IBuilder.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\BuilderCar\IBuilder\obj\Debug\IBuilder.dll
+c:\users\user\source\repos\BuilderCar\IBuilder\obj\Debug\IBuilder.pdb

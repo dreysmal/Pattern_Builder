@@ -1,0 +1,9 @@
+c:\users\user\source\repos\BuilderCar\Builder_FordProbe\bin\Debug\Builder_FordProbe.dll
+c:\users\user\source\repos\BuilderCar\Builder_FordProbe\bin\Debug\Builder_FordProbe.pdb
+c:\users\user\source\repos\BuilderCar\Builder_FordProbe\bin\Debug\Car.dll
+c:\users\user\source\repos\BuilderCar\Builder_FordProbe\bin\Debug\IBuilder.dll
+c:\users\user\source\repos\BuilderCar\Builder_FordProbe\bin\Debug\Car.pdb
+c:\users\user\source\repos\BuilderCar\Builder_FordProbe\bin\Debug\IBuilder.pdb
+c:\users\user\source\repos\BuilderCar\Builder_FordProbe\obj\Debug\Builder_FordProbe.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\BuilderCar\Builder_FordProbe\obj\Debug\Builder_FordProbe.dll
+c:\users\user\source\repos\BuilderCar\Builder_FordProbe\obj\Debug\Builder_FordProbe.pdb
